@@ -1,9 +1,9 @@
-- 👋 Hi, I’m @MaX-ray06
-- 👀 I’m interested in computer science and Medicine!
-- 🌱 I’m currently learning C and rust languages..
-- 💞️ I’m looking to collaborate on C, rust and node.js projects!
-- 📫 How to reach me contact@max-ray.fr
-- ⚡ Fun fact: I'm early!
+- 👋 Hi, I’m @MaX-ray06  
+- 👀 I’m interested in computer science and medicine  
+- 🌱 I’m currently learning C and Rust  
+- 💞️ I’m open to collaborating on C, Rust, and Node.js projects  
+- 📫 Reach me at: contact@max-ray.fr  
+- ⚡ Fun fact: I'm always one step ahead
 
 <!---
 MaX-ray06/MaX-ray06 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
