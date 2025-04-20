@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @MaX-ray06  
 - 👀 I’m interested in computer science and medicine  
-- 🌱 I’m currently learning C and Rust  
-- 💞️ I’m open to collaborating on C, Rust, and Node.js projects  
+- 🌱 I’m currently learning C and Zig  
+- 💞️ I’m open to collaborating on C, Zig, and Node.js projects  
 - 📫 Reach me at: contact@max-ray.fr  
 - ⚡ Fun fact: I'm always one step ahead
 
